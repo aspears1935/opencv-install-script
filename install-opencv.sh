@@ -1,3 +1,7 @@
+#Install OPENCV and Dependencies
+#Anthony Spears
+#Created 9/15/2013
+
 
 cd ~
 
